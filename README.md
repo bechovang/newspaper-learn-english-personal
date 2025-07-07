@@ -1,4 +1,4 @@
-Chắc chắn rồi! Dưới đây là một kế hoạch chi tiết, tập trung vào ý tưởng và hướng dẫn từng bước để bạn có thể xây dựng website của mình. Kế hoạch này tổng hợp tất cả các yêu cầu của bạn, bao gồm việc sử dụng kết hợp Perplexity và Gemini, cũng như hệ thống quản lý chủ đề linh hoạt.
+
 
 ### **Kế hoạch tổng thể: Xây dựng Website Tin tức & Học tiếng Anh Cá nhân hóa**
 
@@ -143,4 +143,3 @@ Bạn không cần làm mọi thứ cùng lúc. Hãy chia nhỏ dự án:
     *   Với $300, bạn có thể thoải mái sử dụng trong khoảng **4-6 tháng**, hoặc thậm chí lâu hơn nếu tối ưu tốt số lần gọi API.
     *   **Mẹo tiết kiệm:** Chỉ gọi Gemini để phân tích nội dung *khi người dùng thực sự bấm vào đọc bài viết*, không phân tích tất cả các tin tức thu thập về.
 
-Kế hoạch này sẽ giúp bạn xây dựng một công cụ cực kỳ mạnh mẽ và cá nhân hóa. Chúc bạn thành công
